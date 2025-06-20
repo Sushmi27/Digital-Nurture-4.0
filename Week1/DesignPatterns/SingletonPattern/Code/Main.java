@@ -1,4 +1,4 @@
-package SingletonPattern;
+package Week1.DesignPatterns.SingletonPattern.Code;
 
 public class Main {
     public static void main(String[] args) {
