@@ -1,4 +1,4 @@
-package DecoratorPattern;
+package Week1.DesignPatterns.DecoratorPattern.Code;
 
 public class Main {
     public static void main(String[] args) {
