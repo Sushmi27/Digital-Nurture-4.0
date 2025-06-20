@@ -1,4 +1,4 @@
-package AdapterPattern;
+package Week1.DesignPatterns.AdapterPattern.Code;
 
 public class Main {
     public static void main(String[] args) {
