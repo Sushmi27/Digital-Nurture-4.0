@@ -1,4 +1,4 @@
-package FactoryPattern;
+package Week1.DesignPatterns.FactoryMethodPattern.Code;
 
 public class Main {
     public static void main(String[] args) {
