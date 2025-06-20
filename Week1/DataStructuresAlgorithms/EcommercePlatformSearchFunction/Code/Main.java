@@ -1,7 +1,4 @@
-package Week1.DataStructuresAlgorithms.EcommercePlatformSearchFunction;
-
-import Week1.DataStructuresAlgorithms.Product;
-import Week1.DataStructuresAlgorithms.ProductCatalog;
+package Week1.DataStructuresAlgorithms.EcommercePlatformSearchFunction.Code;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Week1.DataStructuresAlgorithms;
+package Week1.DataStructuresAlgorithms.EcommercePlatformSearchFunction.Code;
 
 import java.util.ArrayList;
 import java.util.List;
